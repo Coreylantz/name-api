@@ -1,0 +1,21 @@
+{
+  "name": "name-api",
+  "version": "1.0.0",
+  "description": "api that returns or sets names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Corey",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cuid": "^2.1.8",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.14"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
