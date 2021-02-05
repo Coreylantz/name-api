@@ -58,5 +58,3 @@ app.listen(PORT, () => {
 
 // Retrive a list of all current names in the database
 // Edit the name
-
-// mongodb+srv://corey-lantz:<password>@cluster0.qgikn.mongodb.net/<dbname>?retryWrites=true&w=majority
